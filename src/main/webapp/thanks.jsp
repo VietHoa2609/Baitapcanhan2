@@ -23,5 +23,6 @@
     <p>
         To enter another email address, click the <b>Back</b> button in your browser.
     </p>
+    <a href="index.html"><button>Return</button></a>
 </body>
 </html>
